@@ -1,7 +1,6 @@
 # What is it?
 지오메트리 대쉬라는 게임을 손으로 간단하게 조작할수 있게 하는 작품입니다
-* 유튜브
-https://youtube.com/shorts/FLHfpF7-nw4?feature=share
+[![Video Label](http://img.youtube.com/vi//FLHfpF7-nw4/0.jpg)](https://youtube.com/shorts/FLHfpF7-nw4?feature=share)
 # How?
 라즈베리파이 피코 짭퉁을 알리익스프레스에서 구매하였습니다.
 거기에 초음파센서(hsr04)를 납땜하여 연결 후 코드를 업로드하여 보드를 마우스 입력처럼 인식하여 손과 센서와의 거리가 멀어지면 마우스가 클릭을해 점프하는 것입니다. 애플기기,안드로이드기기,컴퓨터등 모두 적용됩니다.
