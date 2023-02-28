@@ -1,5 +1,10 @@
 # What is it?
 지오메트리 대쉬라는 게임을 손으로 간단하게 조작할수 있게 하는 작품입니다
+
+
+클릭하면 유튜브로 이동
+
+
 [![Video Label](http://img.youtube.com/vi/FLHfpF7-nw4/0.jpg)](https://youtube.com/shorts/FLHfpF7-nw4?feature=share)
 ## 지오메트리대쉬?
 ![Image](http://img.youtube.com/vi/727pUHwWSVg/0.jpg)
