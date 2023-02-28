@@ -1,6 +1,6 @@
 # What is it?
 지오메트리 대쉬라는 게임을 손으로 간단하게 조작할수 있게 하는 작품입니다
-
+[![Video Label](http://img.youtube.com/vi/FLHfpF7-nw4/0.jpg)](https://youtube.com/shorts/FLHfpF7-nw4?feature=share)]
 ## 지오메트리대쉬?
 ![Image](http://img.youtube.com/vi/727pUHwWSVg/0.jpg)
 
@@ -8,7 +8,7 @@
 게임이 진행되는 방식은 The Impossible Game과 비슷하다. 일렉트로니카 풍의 BGM을 들으면서 터치로 여러 장애물들을 넘거나 피해서 죽지 않고 레벨을 클리어 하면 되는 게임.
 
 플레이 할 때 가장 염두에 둬야 할 것은 죽으면 처음부터 다시 클리어해야 한다. 그게 1%였든 99%였든.
-[![Video Label](http://img.youtube.com/vi/FLHfpF7-nw4/0.jpg)](https://youtube.com/shorts/FLHfpF7-nw4?feature=share)
+
 # How?
 라즈베리파이 피코 짭퉁을 알리익스프레스에서 구매하였습니다.
 거기에 초음파센서(hsr04)를 납땜하여 연결 후 코드를 업로드하여 보드를 마우스 입력처럼 인식하여 손과 센서와의 거리가 멀어지면 마우스가 클릭을해 점프하는 것입니다. 애플기기,안드로이드기기,컴퓨터등 모두 적용됩니다.
